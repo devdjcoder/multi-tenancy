@@ -17,4 +17,4 @@ spec:
             - --git-branch=master
             - --git-path=cluster
 #             - --git-url=git@github.com:org/dev-cluster
-            - --git-url=git@github.com:devdjcoder/multi-tenancy.git
+            - --git-url=git@github.com:devdjcoder/multi-tenancy
